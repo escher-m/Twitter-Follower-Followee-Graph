@@ -4,10 +4,10 @@ Our aim is to study the digital spread of #BlackLivesMatter in the USA. After co
 I had to draw multiple network graphs to study how the support for the movement spread.
 
 I divided the people involved with the protest into 4 groups: 
-  the key protesters
-  key politicians in power
-  the key politicians in opposition
-  celebrities and journalists
+1. the key protesters.
+2. key politicians in power.
+3. the key politicians in opposition.
+4. celebrities and journalists.
   
 I used the Twitter API using Tweepy in order to make a network graph to see what are the connections between these people. So I chose to look at the follower-followee relations between them. 
 
@@ -25,6 +25,7 @@ Import this csv file into Gephi under 'Edges' tab. Then based on this file edges
 Gephi also allows other visual features like making the nodes different sized based on eigenvector centrality and displaying different colours and labels and their layouts.
 ![rq22](https://user-images.githubusercontent.com/62093616/126904045-01341a80-bea1-4111-bf4b-72d6fa04e37f.png)
 Twitter Follower-Followee relations between Democrats, Republicans and the Black Lives Matter Protesters
+
 
 ![rq3](https://user-images.githubusercontent.com/62093616/126904074-50f7ee6d-b680-4e16-9300-97d97dc504a0.png)
 Twitter Follower-Followee relations between the Black Lives Matter Protesters, left and right leaning Journalists
