@@ -30,3 +30,6 @@ Twitter Follower-Followee relations between Democrats, Republicans and the Black
 ![rq3](https://user-images.githubusercontent.com/62093616/126904074-50f7ee6d-b680-4e16-9300-97d97dc504a0.png)
 Twitter Follower-Followee relations between the Black Lives Matter Protesters, left and right leaning Journalists
 
+![woke_protesters](https://user-images.githubusercontent.com/62093616/126904643-6813d90b-baf4-44e7-ad76-4ecd4b99b9c6.png)
+Twitter Follower-Followee relations between the Black Lives Matter Protesters and Woke Celebrities
+
